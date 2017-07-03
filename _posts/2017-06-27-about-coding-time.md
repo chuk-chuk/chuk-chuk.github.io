@@ -15,15 +15,20 @@ John F. Kennedy said:
 
 Regarding the books, it is heavy reading, check this out yourself. These are brilliant works written by experienced programmers: 
 
--A Well-Grounded Rubyist  by David A. Black - 506 pages, plus exercises 
--Practical Object-Oriented Design in Ruby by Sandi Metz - 247 pages, plus exercises 
+- A Well-Grounded Rubyist  by David A. Black - 506 pages, plus exercises 
+
+- Practical Object-Oriented Design in Ruby by Sandi Metz - 247 pages, plus exercises 
 
 Don't expect to read them in one day, remember it would take time! 
 
 During your four weeks of the course you will cover the following: 
+
 Test Driven Development - [wiki intro](https://en.wikipedia.org/wiki/Test-driven_development)
+
 Ruby  - [wiki intro](https://en.wikipedia.org/wiki/Ruby_(programming_language))
+
 Command Line - [wiki intro](https://en.wikipedia.org/wiki/Command-line_interface)
+
 Git & GitHub - [short video](https://www.youtube.com/watch?v=uUuTYDg9XoI)
 
 These are the core bits, that you will cover, on top of these many others, such as solving Kata challenges, meditating over the code on Ruby Koans, writing your first command line application, brushing your CV, getting familiar with various test editors, including VIM, and occasionally meeting with your mentor or cohort to practice all of the above. 
