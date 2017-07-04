@@ -6,6 +6,8 @@ date: 2017-06-27
 
 That’s right: it is better later than never. I am returning to my blog writing once again. I had a long discussion with myself about whether I should or should not start a blog of my own. During my ongoing pre-course at the Makers Academy, I have discovered that TIME is valuable and should be used wisely. Nothing I start I can finish, just because I don't have enough time. 
 
+![codingtime](https://user-images.githubusercontent.com/17936895/27843920-061d5418-6112-11e7-8fe7-92f3bc45f2de.png)
+
 Choosing to work during the first weeks of pre-course was a pretty dumb decision because a number of hours spent over the code challenges exceed the recommended 20 hours per week. I can convince anyone arguing this point that you will need much more than that. If you ask me why, I would say that even if the pre-course is designed for complete beginners, you would still need a good foundation and extra online tutorials coupled with books to grasp all the fundamental programming concepts hidden behind the scene. 
 
 I am still working full-time, not to mention my current role which has nothing to do with coding. Hence, I struggle. I struggle to find time to fill the gaps in my knowledge and do some extra reading. The last one is crucial when it comes to learning how to code. 
