@@ -38,6 +38,7 @@ On Friday of the very first week, I realised that I am way behind and have not g
 Even if you miss a deadline, try to submit your work ASAP. Don't take it as a general piece of advice and try to finalise a project within the given timeframe. 
 
 ![deadline](https://user-images.githubusercontent.com/17936895/27843609-72d109c4-610d-11e7-91c8-b0d15702c21a.png)
+
 I have learned that setting a deadline is great practice and a perfect motivator to keep yourself going.
 
 It does work for me. The better you understand yourself the better you can manage your own time. And if you do so, I believe you will succeed at everything, including coding!
